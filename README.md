@@ -73,6 +73,3 @@ The Supabase database includes the following tables:
 
 This application is ready to be deployed on platforms like Vercel, Netlify, or any hosting service that supports React applications.
 
-## License
-
-This project is licensed under the MIT License.
